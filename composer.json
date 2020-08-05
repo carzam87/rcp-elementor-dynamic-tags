@@ -1,0 +1,11 @@
+{
+    "name": "cmbibby/rcp-elementor-dynamic-tags",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Chris Bibby",
+            "email": "cmbibby@gmail.com"
+        }
+    ],
+    "require": {}
+}
